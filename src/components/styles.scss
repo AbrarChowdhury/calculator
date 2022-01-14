@@ -1,0 +1,12 @@
+#buttonGrid{
+    display: grid;
+    grid-template-columns: repeat(4, 60px);
+    grid-template-rows: repeat(5, 60px);
+    grid-gap: 10px;
+    .wide{
+        grid-column: span 2;
+    }
+    button{
+        border-radius: 30px;
+    }
+}
