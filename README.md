@@ -1,8 +1,8 @@
-# Project Name
+# Calculator
 
-A short Description 
+A very simple and standard calculator
 
-Open [Live Demo](<the link>) to view it in action.
+Open [Live Demo](https://abru-calc.netlify.app/) to view it in action.
 
 
 ![preview sreenshot](screenShot.jpg)
