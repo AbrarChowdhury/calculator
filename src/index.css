@@ -1,18 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Iceberg', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
 
 .App{
   min-height: 100vh;
   display: flex;
+  background: rgb(248,76,104);
+  background: linear-gradient(43deg, rgba(248,76,104,1) 0%, rgba(194,76,248,1) 100%, rgba(0,0,0,0) 100%);
 }
