@@ -5,7 +5,7 @@ A very simple and standard calculator
 Open [Live Demo](https://abru-calc.netlify.app/) to view it in action.
 
 
-![preview sreenshot](screenShot.jpg)
+![preview sreenshot](calculator.png)
 
 ## After Cloning
 
