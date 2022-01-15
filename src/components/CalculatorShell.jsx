@@ -10,7 +10,6 @@ function CalculatorShell() {
 
     return (
         <div id="shell">
-            <h1>Calculator</h1>
             <Display operation={operation} result={result}/>
             <ButtonGrid setOperation={setOperation} operation={operation} setResult={setResult}/>
         </div>

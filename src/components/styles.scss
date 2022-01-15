@@ -9,6 +9,11 @@
 
 #display-container{
     text-align: right;
+    min-height: 100px;
+    #display{
+        font-size: 30px;
+        font-weight: 500;
+    }
 }
 
 #buttonGrid{
