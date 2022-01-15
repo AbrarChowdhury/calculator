@@ -1,8 +1,7 @@
-import { useState } from "react"
 import "./styles.scss"
 import {evaluate} from "mathjs"
+
 function ButtonGrid({operation, setOperation, setResult}) {
-    const [history,setHistory]=useState(null)
 
     const append= (value, isOperator) => {
         if(isOperator && !operation.length){
