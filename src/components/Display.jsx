@@ -1,9 +1,9 @@
 import "./styles.scss"
 
-function Display({opperation, result}) {
+function Display({operation, result}) {
     return (
         <div id="display-container">
-            <p>{opperation}</p>
+            <p>{operation}</p>
             <p id="display">{result}</p>
         </div>
     )

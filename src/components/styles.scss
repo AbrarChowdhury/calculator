@@ -1,3 +1,12 @@
+#shell{
+    width: max-content;
+    margin: auto;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
 #display-container{
     text-align: right;
 }
@@ -9,6 +18,9 @@
     grid-gap: 10px;
     .wide{
         grid-column: span 2;
+    }
+    .extra-wide{
+        grid-column: span 3;
     }
     button{
         border-radius: 30px;
